@@ -1,0 +1,47 @@
+\contentsline {section}{Preface}{4}{section*.2}
+\contentsline {section}{Introduction}{4}{section*.3}
+\contentsline {section}{Obtaining HALT}{4}{section*.4}
+\contentsline {section}{Getting Started}{4}{section*.5}
+\contentsline {subsection}{Windows}{4}{section*.6}
+\contentsline {subsection}{OS X}{5}{section*.7}
+\contentsline {subsection}{Linux}{5}{section*.8}
+\contentsline {section}{Components of HALT}{5}{section*.9}
+\contentsline {subsection}{Program Editor}{5}{section*.10}
+\contentsline {subsection}{Memory and Register Viewer}{6}{section*.11}
+\contentsline {subsection}{Memory and Register Inspector}{6}{section*.12}
+\contentsline {subsection}{Virtual Machine}{6}{section*.13}
+\contentsline {section}{Addressing Modes}{7}{section*.14}
+\contentsline {subsection}{Data Register Direct}{7}{section*.15}
+\contentsline {subsection}{Address Register Direct}{7}{section*.16}
+\contentsline {subsection}{Address Register Indirect}{7}{section*.17}
+\contentsline {subsection}{Address Register Indirect with pre-decrement}{7}{section*.18}
+\contentsline {subsection}{Address Register Indirect with post-increment}{7}{section*.19}
+\contentsline {subsection}{Symbolic Address Indirect}{7}{section*.20}
+\contentsline {subsection}{Literal Mode}{8}{section*.21}
+\contentsline {section}{Supported Instructions}{8}{section*.22}
+\contentsline {subsection}{ADD}{8}{section*.23}
+\contentsline {subsection}{AND}{8}{section*.24}
+\contentsline {subsection}{BGE}{8}{section*.25}
+\contentsline {subsection}{BGT}{8}{section*.26}
+\contentsline {subsection}{BLE}{8}{section*.27}
+\contentsline {subsection}{BLT}{8}{section*.28}
+\contentsline {subsection}{BNE}{9}{section*.29}
+\contentsline {subsection}{BRA}{9}{section*.30}
+\contentsline {subsection}{CLR}{9}{section*.31}
+\contentsline {subsection}{CMP}{9}{section*.32}
+\contentsline {subsection}{DIV}{9}{section*.33}
+\contentsline {subsection}{EOR}{9}{section*.34}
+\contentsline {subsection}{LEA}{9}{section*.35}
+\contentsline {subsection}{MOVE}{9}{section*.36}
+\contentsline {subsection}{MUL}{9}{section*.37}
+\contentsline {subsection}{NEG}{10}{section*.38}
+\contentsline {subsection}{NOP}{10}{section*.39}
+\contentsline {subsection}{NOT}{10}{section*.40}
+\contentsline {subsection}{OR}{10}{section*.41}
+\contentsline {subsection}{STOP}{10}{section*.42}
+\contentsline {subsection}{SUB}{10}{section*.43}
+\contentsline {section}{Additional Language Features}{10}{section*.44}
+\contentsline {subsection}{Arrays}{10}{section*.45}
+\contentsline {subsection}{Comments}{10}{section*.46}
+\contentsline {subsection}{Labels}{11}{section*.47}
+\contentsline {section}{HALT Developer's Notes}{11}{section*.48}

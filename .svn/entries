@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="31"
+   name=""
+   committed-date="2006-02-23T22:09:11.121552Z"
+   url="https://svn.berlios.de/svnroot/repos/halttool/trunk"
+   last-author="twinbee"
+   kind="dir"
+   uuid="d7772d0a-810c-0410-bd3c-e53ee898b988"
+   repos="https://svn.berlios.de/svnroot/repos/halttool"
+   revision="31"/>
+<entry
+   name="unused"
+   kind="dir"/>
+<entry
+   name="docs"
+   kind="dir"/>
+<entry
+   name="code"
+   kind="dir"/>
+<entry
+   name="examples"
+   kind="dir"/>
+</wc-entries>
