@@ -7,6 +7,8 @@ c Michael Erwin, Matthew Bennett February 23, 2006
 
 *github users: This guide is for the original SVN repo in Berlios.de and needs some updating.* 
 
+Mike Erwin can be found at https://github.com/significant-bit
+
 **Contents**
 
 This document utilizes many hyperlinks to other resources. If you are reading a hard copy, you are not
@@ -238,6 +240,6 @@ Any identifier in the first column which is not a reserved word is considered a 
 unique, and may be used in logical branch instructions (BRA, BLE, BLT, BGE, BGT, BNE). Labels are
 used to define variables or to provide control points for loops.
 
-HALT Developer’s Notes Updated 03/2006
+HALT Developer’s Notes Updated 03/2006 by Matthew Bennett
 
 Figure 3: Class Dependencies Diagram
