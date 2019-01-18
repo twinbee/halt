@@ -1,6 +1,8 @@
 
 # Humane Assembly Language Tools (HALT)
 
+![Halt memview logo](/docs/memview/png?raw=true "Halt memview logo")
+
 ## User’s Guide ##
 
 c Michael Erwin, Matthew Bennett February 23, 2006
