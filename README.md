@@ -1,7 +1,7 @@
 
 # Humane Assembly Language Tools (HALT)
 
-![Halt memview logo](/docs/memview/png?raw=true "Halt memview logo")
+![Halt memview logo](/docs/memview.png?raw=true "Halt memview logo")
 
 ## User’s Guide ##
 
