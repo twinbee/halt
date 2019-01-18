@@ -11,6 +11,8 @@ c Michael Erwin, Matthew Bennett February 23, 2006
 
 Mike Erwin can be found at https://github.com/significant-bit
 
+A downloadable (and more readable) version of this document can be found here: https://github.com/twinbee/halt/blob/master/docs/usersguide.pdf
+
 **Contents**
 
 This document utilizes many hyperlinks to other resources. If you are reading a hard copy, you are not
